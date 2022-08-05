@@ -31,3 +31,7 @@ Can be found on telegram as [Unmei (Destiny)](https://t.me/Destiny_x_Bot).
 • [Sena](https://github.com/kennedy-ex)
 
 • [Shoto](https://github.com/DarkSoulxUltra)
+
+
+
+https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fdialgamew%2FDestinyBot
